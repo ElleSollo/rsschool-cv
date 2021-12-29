@@ -1,10 +1,10 @@
 # **Elena SOLOVIOVA**
 ![There should be a photo here.](https://b.radikal.ru/b39/2112/08/b2cb376e5999.png "Elena Soloviova")
 ## **Contact**
-> * Phone: +375 29 718-40-18
-> * Email: ellesollo@yandex.com
-> * GitHub: [ElleSollo](https://github.com/ElleSollo "I'm on GitHub")
-> * Discord: @ElleSollo
+* Phone: +375 29 718-40-18
+* Email: ellesollo@yandex.com
+* GitHub: [ElleSollo](https://github.com/ElleSollo "I'm on GitHub")
+* Discord: @ElleSollo
 
 ## **About Me**
 I am a journalist, but recently I decided to leave the profession. In December 2021, I started studying at RS School. Hopefully in the future I can become a front-end developer.
