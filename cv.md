@@ -31,3 +31,13 @@ console.log(isLannisterSoldier('red', 'lion'));
 _I haven't experience working in companies as a front-end developer._
 
 My first project is [my CV](https://ellesollo.github.io/rsschool-cv/cv "CV Elena Soloviova").
+## **Education**
+* **2004 - 2009**
+
+Belarusian State University, Faculty of Journalism, Department of Periodical Press and Web Journalism, speciality is Journalism (Print Media major).
+* **2021 (December — to the present)**
+
+Preparatory course «JavaScript/Front-end. Stage 0».
+## **Languages**
+* Russian – Native
+* English — A1 level (but I am improving it)
