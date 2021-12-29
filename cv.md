@@ -13,3 +13,21 @@ I would like to work in a team of like-minded people on interesting projects, cr
 **Personal qualities:**
 
 quick learner, communicative, no bad habits.
+## **Skills**
+_I am just starting to learn, so I cannot boast of any particular skills in the field of programming._
+
+I have little experience with __HTML__, __CSS__, __JavaScript__, __Git__.
+## **Code Examples**
+-------
+```
+const isLannisterSoldier = (color, shield) => {
+  const result = (shield === 'lion' || color === 'red' && shield === null);
+  return result;
+};
+console.log(isLannisterSoldier('red', 'lion'));
+```
+-------
+## **Experience**
+_I haven't experience working in companies as a front-end developer._
+
+My first project is [my CV](https://ellesollo.github.io/rsschool-cv/cv "CV Elena Soloviova").
